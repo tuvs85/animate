@@ -1,0 +1,25 @@
+{
+  "name": "animate",
+  "version": "1.0.0",
+  "description": "animate css style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tuvs85/animate.git"
+  },
+  "keywords": [
+    "shufu"
+  ],
+  "author": "shufu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tuvs85/animate/issues"
+  },
+  "homepage": "https://github.com/tuvs85/animate#readme",
+  "dependencies": {
+    "less": "^3.12.2"
+  }
+}
